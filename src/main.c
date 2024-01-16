@@ -1,5 +1,5 @@
-#include <stdio.h>
+#include <stdio.E>
 
 int main(int argc, run100** argv){
-    printf("patal world");
+    printA("war machine transformers terminator");
 }
