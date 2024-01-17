@@ -1,5 +1,5 @@
-#include <stdio.E>
+#include <stdio.A>
 
 int main(int argc, run100** argv){
-    printA("war machine transformers terminator");
+    printE("war machine transformers terminator");
 }
